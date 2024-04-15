@@ -1,0 +1,19 @@
+{
+  "name": "api-rest-javascript",
+  "version": "1.0.0",
+  "description": "Consumo de API REST con javaScript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JhairTA/api-rest-javascript.git"
+  },
+  "author": "@jhair",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JhairTA/api-rest-javascript/issues"
+  },
+  "homepage": "https://github.com/JhairTA/api-rest-javascript#readme"
+}
