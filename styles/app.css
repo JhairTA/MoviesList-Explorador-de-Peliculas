@@ -101,10 +101,10 @@ button {
   margin-bottom: 24px;
 }
 
-/* ELIMINAR EL SCROLLEAR VERTICAL*/
-/*.trendingPreview-movieList::-webkit-scrollbar { 
+/* ELIMINAR EL SCROLLEAR VERTICAL */
+/* .trendingPreview-movieList::-webkit-scrollbar { 
   display: none; 
-}*/
+} */
 
 .movie-container {
   cursor: pointer;
